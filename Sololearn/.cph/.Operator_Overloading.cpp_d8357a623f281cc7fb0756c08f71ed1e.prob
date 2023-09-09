@@ -1,0 +1,1 @@
+{"name":"Local: Operator_Overloading","url":"d:\\OneDrive\\桌面\\Sololearn\\Operator_Overloading.cpp","tests":[{"id":1677862837335,"input":"500\n14800","output":"16830"},{"id":1677862877453,"input":"1000\n8500","output":"10450"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OneDrive\\桌面\\Sololearn\\Operator_Overloading.cpp","group":"local","local":true}
