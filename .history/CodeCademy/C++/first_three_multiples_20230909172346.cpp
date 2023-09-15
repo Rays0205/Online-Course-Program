@@ -7,7 +7,7 @@ Question
 > For example, first_three_multiples(7) should return a vector with 7, 14, and 21.
 */
 
-//Solution
+// main code
 #include <iostream>
 #include <vector>
 
