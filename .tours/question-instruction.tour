@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Header_file",
+  "steps": [
+    {
+      "file": "CodeCademy/C++/Header_file/fns.hpp",
+      "description": "Move the function declarations from above main() in main.cpp into fns.hpp",
+      "line": 1
+    },
+    {
+      "file": "CodeCademy/C++/Header_file/main.cpp",
+      "description": "Add the include statement above main(), include the header file in main.cpp",
+      "line": 15
+    }
+  ]
+}
