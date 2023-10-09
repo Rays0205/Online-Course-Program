@@ -14,7 +14,7 @@ int tenth_power(int num)
 // main code
 int main()
 {
-
+    //test
     std::cout << tenth_power(0) << "\n";
     std::cout << tenth_power(1) << "\n";
     std::cout << tenth_power(2) << "\n";
