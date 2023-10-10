@@ -1,0 +1,120 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "json.schemas": [
+
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "better-comments.tags": [
+
+
+        {
+            "tag": "!",
+            "color": "#fa8072",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#ff8c00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "/",
+            "color": "#00ff00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "-",
+            "color": "#00deff",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": ">",
+            "color": "#ffff00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#ff69b4",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+
+    ],
+    "todohighlight.defaultStyle": {
+        "color": "#2196f3",
+        "backgroundColor": "#ffeb3b",
+    },
+    "todohighlight.keywords": [
+        {
+            "text": "Question",
+            "color": "#003000",
+            "backgroundColor": "#00ff00",
+        },
+        {
+            "text": "Solution",
+            "color": "#003000",
+            "backgroundColor": "#00deff",
+        },
+        {
+            "text": "Tips",
+            "color": "#ff4500",
+            "backgroundColor": "#ffff00",
+        },
+        {
+            "text": "Model Solution",
+            "color": "#ffff00",
+            "backgroundColor": "#ff4500",
+        },
+        {
+            "text": "Wrong Solution",
+            "color": "#ffff00",
+            "backgroundColor": "#dc143c",
+        },
+        {
+            "text": "Todo",
+            "color": "#000",
+            "backgroundColor": "#fff",
+        },
+    ],
+    
+    "editor.fontFamily": "MesloLGMDZ Nerd Font,Consolas, 'Courier New', monospace",
+    "remoteHub.commitDirectlyWarning": "off",
+    "files.autoSave": "afterDelay",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": -1,
+    "git.autofetch": true,
+    "leetcode-problem-rating.workspaceFolder": "c:\\Code\\Online-Course-Program\\LeetCode",
+    "leetcode.workspaceFolder": "C:\\Code\\Online-Course-Program\\LeetCode",
+    "leetcode.nodePath": "C:\\Program Files\\nodejs\\node.exe",
+    "leetcode.showDescription": "Both",
+    "leetcode.defaultLanguage": "python",
+    "leetcode.hint.commandShortcut": false,
+    "leetcode.hint.configWebviewMarkdown": false
+}
