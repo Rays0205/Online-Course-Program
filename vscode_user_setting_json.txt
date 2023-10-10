@@ -69,38 +69,38 @@
     },
     "todohighlight.keywords": [
         {
-            "text": "Question",
+            "text": "# Question",
             "color": "#003000",
             "backgroundColor": "#00ff00",
         },
         {
-            "text": "Solution",
+            "text": "# Solution",
             "color": "#003000",
             "backgroundColor": "#00deff",
         },
         {
-            "text": "Tips",
+            "text": "# Tips",
             "color": "#ff4500",
             "backgroundColor": "#ffff00",
         },
         {
-            "text": "Model Solution",
+            "text": "# Model Solution",
             "color": "#ffff00",
             "backgroundColor": "#ff4500",
         },
         {
-            "text": "Wrong Solution",
+            "text": "# Wrong Solution",
             "color": "#ffff00",
             "backgroundColor": "#dc143c",
         },
         {
-            "text": "Todo",
+            "text": "# Todo",
             "color": "#000",
             "backgroundColor": "#fff",
         },
     ],
     
-    "editor.fontFamily": "MesloLGMDZ Nerd Font,Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "MesloLGSDZ Nerd Font,Consolas, 'Courier New', monospace",
     "remoteHub.commitDirectlyWarning": "off",
     "files.autoSave": "afterDelay",
     "editor.cursorSmoothCaretAnimation": "on",
