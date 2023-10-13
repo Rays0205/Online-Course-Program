@@ -1,0 +1,27 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Default_Argument",
+  "steps": [
+    {
+      "file": "CodeCademy/C++/Default_Argument/main.cpp",
+      "description": "Add \"default argument\" of false to make_coffee() in coffee.hpp",
+      "line": 9
+    },
+    {
+      "file": "CodeCademy/C++/Default_Argument/coffee.hpp",
+      "description": "Declare the bool value of \"milk\" and \"sugar\" as false",
+      "line": 5
+    },
+    {
+      "file": "CodeCademy/C++/Default_Argument/main.cpp",
+      "description": "Remove unnecessary false in the input",
+      "line": 11
+    },
+    {
+      "file": "CodeCademy/C++/Default_Argument/main.cpp",
+      "description": "Delete unnecessary false",
+      "line": 37
+    }
+  ],
+  "ref": "main"
+}

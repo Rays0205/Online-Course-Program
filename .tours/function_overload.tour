@@ -1,0 +1,27 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Function_Overload",
+  "steps": [
+    {
+      "file": "CodeCademy/C++/Function_Overload/main.cpp",
+      "description": "change the function names in \"num_ops.hpp\", \"num_ops.cpp, and main()",
+      "line": 29
+    },
+    {
+      "file": "CodeCademy/C++/Function_Overload/num_ops.hpp",
+      "description": "turn \"fancy_integer\", \"other_fancy_integer\", and \"fancy_double\" into \"fancy_number\"",
+      "line": 6
+    },
+    {
+      "file": "CodeCademy/C++/Function_Overload/num_ops.cpp",
+      "description": "turn \"fancy_integer\", \"other_fancy_integer\", and \"fancy_double\" into \"fancy_number\"",
+      "line": 20
+    },
+    {
+      "file": "CodeCademy/C++/Function_Overload/main.cpp",
+      "description": "turn \"fancy_integer\", \"other_fancy_integer\", and \"fancy_double\" into \"fancy_number\"",
+      "line": 42
+    }
+  ],
+  "ref": "main"
+}
